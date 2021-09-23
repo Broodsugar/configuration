@@ -1,10 +1,10 @@
 {
-  "m_AnimalName": "Andreas",
+  "m_AnimalName": "Oscar",
   "m_HungerIncreaseRate": 0.05,
   "m_HappinessDecreaseTreshold": 0.3,
   "m_HappinessIncreaseTreshold": 0.7,
   "m_HappinessRate": 0.025,
   "m_HungerRecoveryRate": 0.3,
   "m_FeedingCooldown": 3.0,
-  "m_TimeScale": 1
+  "m_TimeScale": 0.5
 }
