@@ -33,7 +33,7 @@
       "m_HappinessIncreaseRate": 0.5,
       "m_FullSliderBonus": 30.0,
       "m_Nutrition": 20.0,
-      "m_Cooldown": 5.0,
+      "m_Cooldown": 10.0,
       "m_SecondsPerSecond": 1.0
     }
    ]
