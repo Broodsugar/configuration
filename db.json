@@ -5,7 +5,7 @@
       "m_AnimalName": "Mo",
       "m_Sex": "Female",
       "m_Family": "Canine",
-      "m_SliderResetTime": 1.0,
+      "m_SliderResetTime": 0.1,
       "m_BarColors": [
         {
           "r": 0.9490196108818054,
