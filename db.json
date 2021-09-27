@@ -2,14 +2,19 @@
   "posts":[
     {
       "id":1,
-      "m_AnimalName": "Andreas",
-      "m_HungerIncreaseRate": 0.05,
-      "m_HappinessDecreaseTreshold": 0.3,
-      "m_HappinessIncreaseTreshold": 0.7,
-      "m_HappinessRate": 0.025,
-      "m_HungerRecoveryRate": 0.3,
-      "m_FeedingCooldown": 1.0,
-      "m_TimeScale": 1
+      "m_AnimalName": "Zuzu",
+      "m_Sex": "Female",
+      "m_Family": "Canine",
+      "m_sliderResetTime": 0.1,
+      "m_Appetite": 0.5,
+      "m_HappinessDecreaseThreshold": 30.0,
+      "m_HappinessIncreaseThreshold": 70.0,
+      "m_HappinessDecreaseRate": 0.5,
+      "m_HappinessIncreaseRate": 0.5,
+      "m_FullSliderBonus": 30.0,
+      "m_Nutrition": 20.0,
+      "m_Cooldown": 1.0,
+      "m_SecondsPerSecond": 1.0
     }
    ]
 }
