@@ -2,7 +2,7 @@
   "posts":[
     {
       "id":1,
-      "m_AnimalName": "Mo",
+      "m_AnimalName": "Mope",
       "m_Sex": "Female",
       "m_Family": "Canine",
       "m_SliderResetTime": 0.1,
@@ -34,7 +34,7 @@
       "m_FullSliderBonus": 30.0,
       "m_Nutrition": 20.0,
       "m_Cooldown": 10.0,
-      "m_SecondsPerSecond": 1.0
+      "m_SecondsPerSecond": 120.0
     }
    ]
 }
